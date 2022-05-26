@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0SqAYiFWiIByJMDyKh5c9HcLj2fvAnZ7mw34Es1ZPyU=",
+  "Source": "GeneralStoreAPI",
+  "BasePath": "_content/GeneralStoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
